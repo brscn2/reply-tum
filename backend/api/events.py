@@ -1,0 +1,1 @@
+"""SSE /events/stream endpoint."""
